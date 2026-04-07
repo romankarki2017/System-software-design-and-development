@@ -1,0 +1,57 @@
+while loop
+do loop
+for loop
+nested loop
+inhanced for loop/for eac
+
+TYPE OF ERROR
+-> syntax, logical and runtime error
+
+SCANNER METHODS
+-> nextInt, nextdouble, nextLine
+
+ARRAY
+<access modifier> <data type> <variable name>
+private/public     
+
+ARRAY DECLERATION
+ARRAY CONSTRUCTION
+ARRAY INITILIZATION
+
+
+STATIC AND NONSTATIC MEMBER OF CLASS (Type of methods)
+-> Methods without parameter, with no return type
+    public void add(){
+
+    }
+
+-> Method with parameters, with no return Type
+   public void add(int a, int b){
+
+   }
+
+-> Method with parameters, with return Type
+   public int add(int a, int b){
+
+   }
+
+-> Method without parameters, with return Type
+   public vo{
+
+   }
+
+
+METHODS CALLING/
+1. Instant method
+2. Static method
+   a. with the class name
+   b. with the reference variable
+   c. with the dynamic object
+   d. with the reference variable which contain null
+
+METHODS PARAMETER
+-> Formal parameter and Actual arguments
+
+
+(1) Write program to display the series of 50, 45, 40, 35......5.
+(2) Write a program to watch the GPA of 5 students then store in array, display the average GPA.
