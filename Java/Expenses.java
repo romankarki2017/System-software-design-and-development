@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Expenses {
-    public static void main(String[] args){
+    public static void main(StringTest[] args){
         float[] expenses = new float[10];
         Scanner sc = new Scanner(System.in);
 

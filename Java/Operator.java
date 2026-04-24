@@ -1,5 +1,5 @@
 public class Operator {
-    public static void main(String[] args) {
+    public static void main(StringTest[] args) {
         int x,y,z;
         x=10;
         y=x++;

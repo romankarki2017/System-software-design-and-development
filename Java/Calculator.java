@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Calculator {
-    public static void main(String[] args){
+    public static void main(StringTest[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("-----Enter you choice-----");
         System.out.println("press 1 :Add");

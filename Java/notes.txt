@@ -43,7 +43,18 @@ STATIC AND NONSTATIC MEMBER OF CLASS (Type of methods)
 
 METHODS CALLING/
 1. Instant method
+   -call by the ref. variable which has the object
+            ex: Area obj = new Area();
+            obj ,method();
+   -with dynamic object creation;
+         new Area().method();
+
 2. Static method
+   -with class name
+   -with the ref variable having null value also.
+      Area obj =null;
+      obj.methodName();
+
    a. with the class name
    b. with the reference variable
    c. with the dynamic object
@@ -55,3 +66,4 @@ METHODS PARAMETER
 
 (1) Write program to display the series of 50, 45, 40, 35......5.
 (2) Write a program to watch the GPA of 5 students then store in array, display the average GPA.
+(3) 

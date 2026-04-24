@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Series {
-    public static void main (String[] args) {
+    public static void main (StringTest[] args) {
         int n=50;
 
         while(n>=5){

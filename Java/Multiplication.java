@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Multiplication {
-    public static void main(String[] agrs){
+    public static void main(StringTest[] agrs){
         int n;
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter the number: ");

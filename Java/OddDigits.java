@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 public class OddDigits {
-    public static void main(String[] args) {
+    public static void main(StringTest[] args) {
         int n;
         Scanner sc = new Scanner (System.in); 
         System.out.println("Enter a number: ");

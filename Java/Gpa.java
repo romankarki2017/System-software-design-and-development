@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Gpa {
-    public static void main(String[] args){
+    public static void main(StringTest[] args){
         float[] gpa = new float[5];
         Scanner sc = new Scanner(System.in);
 
